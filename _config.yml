@@ -11,3 +11,5 @@ highlighter: rouge
 markdown: kramdown
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
+
+theme: jekyll-theme-slate
