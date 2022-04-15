@@ -1,0 +1,20 @@
+#
+## Alias OBJ Material File
+# Exported from SketchUp, (c) 2000-2012 Trimble Navigation Limited
+
+newmtl FrontColor
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+
+newmtl Roofing_Metal_Standing_Seam_Red
+Ka 0.000000 0.000000 0.000000
+Kd 0.650980 0.274510 0.227451
+Ks 0.330000 0.330000 0.330000
+map_Kd casinha/Roofing_Metal_Standing_Seam_Red.jpg
+
+newmtl Color_A08
+Ka 0.000000 0.000000 0.000000
+Kd 0.400000 0.000000 0.000000
+Ks 0.330000 0.330000 0.330000
+
